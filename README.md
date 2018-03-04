@@ -4,17 +4,17 @@ Convert Hashtag into link in OOP way.
 
 # Table of Contents
 
-1. index.php
-
 - how to use code example.
 
-2. dispaly-hastag.php
+1. index.php
 
 - display hashtag link by using GET mehtod.
 
-3. src/convert-into-link.php
+2. dispaly-hastag.php
 
 - main file to convert hashtag into link.
+
+3. src/convert-into-link.php
 
 
 # Installation:
