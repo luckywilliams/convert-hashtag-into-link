@@ -24,6 +24,8 @@ clone or download source files into your project.
 
 # Usage: 
 
+require and use "src/convert-into-link.php" as below example: 
+
 ```php
 //require source file
 require_once("src/convert-into-link.php");
